@@ -1,0 +1,12 @@
+.intro__list-object {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 150%;
+    list-style-type: none;
+}
+.intro__list-object-normal {
+    font-weight: normal;
+}

@@ -1,0 +1,8 @@
+.root {
+    background-color: #2A2C2F;
+    color: #FFFFFF;
+    font-family: 'Inter', "Arial", "sans-serif";
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
