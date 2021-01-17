@@ -5,8 +5,13 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 163%;
-    margin-bottom: 1.625em;
+    margin-bottom: 25px;
 }
 .place__paragraph:last-child{
     margin-bottom: 0;
+}
+@media screen and (max-width: 767px){
+    .place__paragraph:last-child {
+        margin-top: 1.563em;
+    }
 }

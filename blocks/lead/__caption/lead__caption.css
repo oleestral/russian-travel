@@ -6,6 +6,16 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
     align-self: flex-start;
-    margin-top: 0.8%;
+    margin-top: 8px;
     margin-bottom: 0;
+}
+@media screen and (max-width: 767px) {
+    .lead__caption {
+        margin-left: 18px;
+    }
+}
+@media screen and (max-width: 1023px) {
+    .lead__caption {
+        margin-left: 24px;
+    }
 }

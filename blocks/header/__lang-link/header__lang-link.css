@@ -13,9 +13,6 @@
 .header__lang-link:last-child {
     margin: 0;
 }
-.header__lang-link:focus {
-    text-decoration: underline;
-}
 @media screen and (max-width: 767px) {
     .header__lang-link {
         width: 22px;

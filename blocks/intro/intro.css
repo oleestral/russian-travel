@@ -1,24 +1,28 @@
-@import url(../../blocks/intro/intro.css);
-@import url(../../blocks/intro/__title/intro__title.css);
-@import url(../../blocks/intro/__text/intro__text.css);
-@import url(../../blocks/intro/__list/intro__list.css);
-@import url(../../blocks/intro/__list-object/intro__list-object.css);
 
 .intro {
     padding: 0;
     color: #FFFFFF;
-    margin-top: 7%;
+    margin-top: 92px;
     align-self: flex-start;
-    width: 64%;
-    margin-left: 11.3%;
+    max-width: 720px;
+    margin-left: 148px;
 }
 @media screen and (max-width: 767px){
     .intro {
-        width: 90%;
-        margin-left: 0;
-        align-self: center;
+        margin-top: 64px;
+        margin-left: 16px;
+        margin-right: 16px;
     }
-    .intro__title {
-        font-size: 32px;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .intro {
+        margin-top: 88px;
+        margin-left: 24px;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .intro {
+        margin-top: 88px;
+        margin-left: 48px;
     }
 }

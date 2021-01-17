@@ -1,3 +1,8 @@
 .place__image {
     width: 100%;
 }
+@media screen and (max-width: 767px){
+    .place__image {
+        margin-bottom: 2em;
+    }
+}

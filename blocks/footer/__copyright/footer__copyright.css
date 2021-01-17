@@ -7,3 +7,11 @@
     line-height: 114%;
     text-align: right;
 }
+@media screen and (max-width: 767px){
+    .footer__copyright {
+        text-align: left;
+        align-items: flex-start;
+        justify-content: flex-start;
+        margin-top: 48px;
+    }
+}

@@ -1,14 +1,17 @@
-@import url(../../blocks/header/__logo/header__logo.css);
-@import url(../../blocks/header/__lang/header__lang.css);
-@import url(../../blocks/header/__lang-link/header__lang-link.css);
 
 .header {
     padding: 0;
     display: flex;
-    width: 95%;
-    margin-top: 1.5%;
     justify-content: space-between;
-    align-items: center;
+    margin: 28px 48px 0 48px;
 }
-
-
+@media screen and (max-width: 767px) {
+    .header {
+        margin: 16px 16px 0 16px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .header {
+        margin: 28px 24px 0 24px;
+    }
+}
