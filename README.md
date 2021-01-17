@@ -10,4 +10,4 @@
 * @media
 * Адаптивная верстка
 
-**Сайт проекта**: https://oleestral.github.io/russian-travel.html
+**Сайт проекта**: https://oleestral.github.io/russian-travel/index.html
