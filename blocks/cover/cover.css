@@ -3,6 +3,11 @@
     margin-top: 92px;
     color: #FFFFFF;
 }
+@media screen and (max-width: 767px) {
+    .cover {
+        margin-top: 66px;
+    }
+} 
 @media screen and (min-width: 300px) and (max-width: 1279px){
     .cover {
         width: 100%;
