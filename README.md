@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://olymptruck.ru/content/files/images/1_03.png" alt = "logo" width = "500"</p>
+<p align = "center"><img src = "https://bathmate24.ru/news/uploads/posts/2017-10/1509429528_russia.jpg" alt = "logo" width = "500"</p>
 
 # Проект 3: Путешествие по России
 
