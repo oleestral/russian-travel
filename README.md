@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://regionsamara.ru/wp-content/uploads/2020/01/13016.30_1.jpg" alt = "logo" width = "100%"</p>
+<p align = "center"><img src = "https://regionsamara.ru/wp-content/uploads/2020/01/13016.30_1.jpg" alt = "logo" width = "80%"</p>
 
 # Проект 3: Путешествие по России
 
