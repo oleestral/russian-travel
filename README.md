@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://www.kartinki24.ru/uploads/gallery/main/69/kartinki24_ru_deer_53.jpg" alt = "logo" width = "300"</p>
+<p align = "center"><img src = "https://olymptruck.ru/content/files/images/1_03.png" alt = "logo" width = "500"</p>
 
 # Проект 3: Путешествие по России
 
