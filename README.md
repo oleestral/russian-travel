@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://bathmate24.ru/news/uploads/posts/2017-10/1509429528_russia.jpg" alt = "logo" width = "500"</p>
+<p align = "center"><img src = "https://regionsamara.ru/wp-content/uploads/2020/01/13016.30_1.jpg" alt = "logo" width = "500"</p>
 
 # Проект 3: Путешествие по России
 
